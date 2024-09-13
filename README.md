@@ -1,1 +1,1 @@
-Weather App bu using HTML, CSS & JS 
+Weather App by using HTML, CSS & JS 
